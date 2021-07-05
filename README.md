@@ -6,6 +6,8 @@ Foi desenvolvido durante a matéria de Sistemas Embarcados.
 
 O projeto foi construído com base na linguagem C++
 
+Acompanha a biblioteca ioconfig usada no projeto.
+
 Possui dois botões para ajuste de tempo nos pinos PC2 e PC3, e utiliza 6 displays de 7 segmentos nos pinos: PB1, PB2, PB3, PB4, PB5, PC0.
  
 ## Imagem
